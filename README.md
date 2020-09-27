@@ -1,2 +1,2 @@
-# OMSegmentedTableView
-UITableView + UISegmentedControl in Swift
+# OMFadeTableView
+UITableView with fade effect in Swift
